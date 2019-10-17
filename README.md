@@ -1,0 +1,2 @@
+# GoSimpleHttpServer
+指定フォルダ以下のファイルをGetで取得可にする開発用サーバー
