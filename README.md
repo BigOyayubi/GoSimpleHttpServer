@@ -1,6 +1,7 @@
 # gosimplehttpd
 
 指定フォルダ以下のファイルをGetで取得するだけの開発用サーバー
+
 exeを実行するだけで実行ディレクトリ以下のファイルがGetできます。
 
 # QuickStart 
